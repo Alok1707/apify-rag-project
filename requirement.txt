@@ -1,0 +1,6 @@
+langchain
+langchain-apify
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+python-dotenv
